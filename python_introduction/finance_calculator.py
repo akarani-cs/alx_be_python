@@ -1,6 +1,6 @@
-income = input("Enter your monthly income")
+income = input("Enter your monthly income:")
 
-expenses = input("Enter your monthly expenses")
+expenses = input("Enter your total monthly expenses:")
 
 monthly_savings = float(income) - float(expenses)
 
